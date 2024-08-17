@@ -2,13 +2,14 @@
  
 <h1 align="center" style="font-weight: bold;">Penguin-Fashion Html and Tailwind Template 💻</h1>
 
-<p align="center">
-<a href="https://rehan606.github.io/Penguin-Fashion-Using-Tailwind/">📱 Visit this Project</a>
-</p>
+
 
 <p align="center">"Penguin Fashion" is a stylish and modern HTML web template designed using Tailwind CSS. It offers a sleek and responsive layout, making it perfect for fashion-related websites. The template features clean design elements and customizable components, providing an excellent foundation for showcasing fashion products or services with elegance and ease.</p>
 
- 
+ <p align="center">
+<a href="https://rehan606.github.io/Penguin-Fashion-Using-Tailwind/">📱 Visit this Project</a>
+</p> 
+
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
