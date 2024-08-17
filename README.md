@@ -9,7 +9,8 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-<img src="https://ibb.co/0q7Pj3C" alt="screencapture-127-0-0-1-5500-index-html-2024-08-17-19-24-19" border="0" width="400px">
+<img src="https://i.ibb.co/R2FLpW3/screencapture-127-0-0-1-5500-index-html-2024-08-17-19-24-19.png" alt="screencapture-127-0-0-1-5500-index-html-2024-08-17-19-24-19" border="0" width="400px">
+
 </p>
  
 <h2 id="technologies">💻 Technologies</h2>
